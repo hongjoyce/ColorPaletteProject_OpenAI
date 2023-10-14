@@ -1,0 +1,1 @@
+# ColorPaletteProject_OpenAI
